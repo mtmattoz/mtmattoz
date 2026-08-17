@@ -15,7 +15,7 @@ Tenho conhecimentos em Java, Spring Boot, JPA/Hibernate, PostgreSQL, JavaScript,
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 ### Backend
 
