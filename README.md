@@ -69,6 +69,3 @@ Estou em busca da minha primeira oportunidade na área de tecnologia, onde eu po
 
 ---
 
-<p align="center">
-  <i>“Sempre aprendendo, sempre evoluindo.”</i>
-</p>
