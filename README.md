@@ -1,4 +1,4 @@
-# 👨‍💻 Mateus Mattos
+# Mateus Mattos
 
 ### Sistemas de Informação
 
@@ -52,16 +52,6 @@ Tenho conhecimentos em Java, Spring Boot, JPA/Hibernate, PostgreSQL, JavaScript,
 </p>
 
 ---
-
-## 📊 GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mtmattoz&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtmattoz&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## Objetivos
 
 Estou em busca da minha primeira oportunidade na área de tecnologia, onde eu possa colocar em prática meus conhecimentos, desenvolver novas habilidades e adquirir experiência profissional.**.
