@@ -8,16 +8,12 @@ Atualmente, estou aprimorando meus conhecimentos principalmente em **Java, Sprin
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-* 🎓 Estudante de **Sistemas de Informação**
-* 💻 Focado em **desenvolvimento de software**
-* 🌱 Atualmente aprimorando meus conhecimentos em **Java e Spring Boot**
-* ⚛️ Desenvolvendo projetos com **React e JavaScript**
-* 🗄️ Experiência com **PostgreSQL e JPA/Hibernate**
-* 🔧 Utilizo **Git e GitHub** para versionamento e organização dos projetos
-* 🌎 Estudando **inglês** para ampliar minhas oportunidades profissionais
-* 🎯 Buscando minha primeira oportunidade profissional na área de desenvolvimento
+Sou estudante de Sistemas de Informação, interessado em desenvolvimento de software, tecnologia e área de dados. Busco constantemente aprimorar meus conhecimentos por meio da faculdade e de projetos práticos, desenvolvendo habilidades em programação, banco de dados e desenvolvimento de aplicações.
+
+Tenho conhecimentos em Java, Spring Boot, JPA/Hibernate, PostgreSQL, JavaScript, React, Git e GitHub. Atualmente, estou em busca da minha primeira oportunidade na área de tecnologia, onde possa aplicar meus conhecimentos, adquirir experiência profissional, aprender novas tecnologias e contribuir para o desenvolvimento de soluções eficientes.
+
 
 ---
 
@@ -57,48 +53,6 @@ Atualmente, estou aprimorando meus conhecimentos principalmente em **Java, Sprin
 
 ---
 
-## 📂 Projetos em destaque
-
-### ⚔️ Naruto Pixel Battle
-
-Sistema de batalha inspirado no universo de Naruto, desenvolvido com **Java, Spring Boot, JPA e PostgreSQL**, com sistema de personagens, ataques, partidas, turnos e histórico.
-
-**Tecnologias:** Java • Spring Boot • JPA/Hibernate • PostgreSQL
-
----
-
-### 💈 API Barbearia
-
-API REST desenvolvida para gerenciamento de uma barbearia, utilizando arquitetura backend e integração com banco de dados.
-
-**Tecnologias:** Java • Spring Boot • JPA • PostgreSQL
-
----
-
-### ⚛️ Projeto Rick and Morty
-
-Aplicação frontend desenvolvida em React utilizando uma API externa para consultar e exibir personagens, planetas e episódios da série.
-
-**Tecnologias:** React • JavaScript • Axios • React Router • React Bootstrap
-
----
-
-### 🎵 Projeto Spotify
-
-Projeto frontend inspirado na interface do Spotify, desenvolvido para praticar estruturação de páginas, estilização e JavaScript.
-
-**Tecnologias:** HTML • CSS • JavaScript
-
----
-
-### 📚 Biblioteca Online
-
-Projeto voltado para o gerenciamento e organização de livros, desenvolvido como prática de programação e desenvolvimento de sistemas.
-
-**Tecnologias:** Java • Backend • Banco de dados
-
----
-
 ## 📊 GitHub
 
 <p align="center">
@@ -108,15 +62,13 @@ Projeto voltado para o gerenciamento e organização de livros, desenvolvido com
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
-Meu principal objetivo é continuar evoluindo como desenvolvedor, adquirindo experiência prática e aprofundando meus conhecimentos em **desenvolvimento backend, APIs REST, bancos de dados e desenvolvimento web**.
-
-Busco oportunidades que me permitam aprender, contribuir com projetos reais e crescer profissionalmente na área de tecnologia.
+Estou em busca da minha primeira oportunidade na área de tecnologia, onde eu possa colocar em prática meus conhecimentos, desenvolver novas habilidades e adquirir experiência profissional.**.
 
 ---
 
-## 📫 Contato
+## Contato
 
 <p>
   <a href="https://github.com/mtmattoz">
