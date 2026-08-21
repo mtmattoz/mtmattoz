@@ -1,11 +1,5 @@
 # Mateus Mattos
 
-Eu sou **Mateus Mattos**, estudante de **Sistemas de Informação** e apaixonado por tecnologia e desenvolvimento de software.
-
-Atualmente, estou aprimorando meus conhecimentos principalmente em **Java, Spring Boot, React e bancos de dados**, buscando transformar o aprendizado acadêmico em projetos práticos e construir minha experiência na área de tecnologia.
-
----
-
 ## Sobre mim
 
 Sou estudante de Sistemas de Informação, interessado em desenvolvimento de software, tecnologia e área de dados. Busco constantemente aprimorar meus conhecimentos por meio da faculdade e de projetos práticos, desenvolvendo habilidades em programação, banco de dados e desenvolvimento de aplicações.
