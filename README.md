@@ -45,12 +45,6 @@ Tenho conhecimentos em Java, Spring Boot, JPA/Hibernate, PostgreSQL, JavaScript,
 
 ---
 
-## Objetivos
-
-Estou em busca da minha primeira oportunidade na área de tecnologia, onde eu possa colocar em prática meus conhecimentos, desenvolver novas habilidades e adquirir experiência profissional.**.
-
----
-
 ## Contato
 
 <p>
