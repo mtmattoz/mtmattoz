@@ -44,6 +44,15 @@ Tenho conhecimentos em Java, Spring Boot, JPA/Hibernate, PostgreSQL, JavaScript,
 </p>
 
 ---
+
+## 📊 Tecnologias mais utilizadas
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtmattoz&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Tecnologias mais utilizadas"
+  />
+</p>
 ## Objetivos
 
 Estou em busca da minha primeira oportunidade na área de tecnologia, onde eu possa colocar em prática meus conhecimentos, desenvolver novas habilidades e adquirir experiência profissional.**.
